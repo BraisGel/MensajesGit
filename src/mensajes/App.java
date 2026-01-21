@@ -7,7 +7,7 @@ public class App {
     }
     
     static void mostrarMensaje() {
-        System.out.println("Aplicación iniciada correctamente");
+    	System.out.println("Sistema listo para operar");
     }
     
     static void despedirse() {
