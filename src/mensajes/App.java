@@ -7,7 +7,7 @@ public class App {
     }
     
     static void mostrarMensaje() {
-        System.out.println("Bienvenido a la aplicación");
+        System.out.println("Bienvenido a MensajesGit");
     }
     
     static void despedirse() {
